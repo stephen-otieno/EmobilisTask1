@@ -1,0 +1,61 @@
+html {
+    background-color: cadetblue;
+    font-family: "Times New Roman", serif;
+    font-size: larger;
+
+}
+
+.h1 {
+    color: #e4c70d;
+    font-family: "Arial Black", sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+.sc1 {
+    color: white;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    background-color: grey;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-wrap: balance;
+    max-width:80% ;
+}
+
+.sc1:hover {
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.dtls {
+    margin-left: 3cm;
+    max-width: 20%;
+    background-color: black;
+    color: white;
+    padding: .5cm;
+}
+
+.dtls:hover {
+    font-size: larger;
+    cursor:pointer;
+}
+
+.btn1 {
+    background-color: #1818cd;
+    color: white;
+    font-size: large;
+    margin-right: 1cm;
+    border-radius: 8px;
+}
+
+.btn1:hover {
+    cursor: pointer;
+    background-color: blue;
+    font-size: larger;
+
+}
