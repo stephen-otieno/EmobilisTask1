@@ -27,9 +27,31 @@ html {
     max-width:80% ;
 }
 
+.sc2 {
+     color: white;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    background-color: grey;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-wrap: balance;
+    max-width:80% ;
+
+}
+
 .sc1:hover {
     font-size: x-large;
     cursor: pointer;
+}
+
+.sc2:hover {
+     font-size: x-large;
+    cursor: pointer;
+
 }
 
 .dtls {
@@ -46,7 +68,7 @@ html {
 }
 
 .btn1 {
-    background-color: #1818cd;
+    background-color: #df0cdc;
     color: white;
     font-size: large;
     margin-right: 1cm;
@@ -55,7 +77,7 @@ html {
 
 .btn1:hover {
     cursor: pointer;
-    background-color: blue;
+    background-color: #df0cdc;
     font-size: larger;
 
 }
